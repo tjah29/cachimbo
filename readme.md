@@ -7,6 +7,13 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 <<<<<<< HEAD
 
+<<<<<<< HEAD
+## Languages
+Ingles
+Potuguese
+Espanish
+
+=======
 ## Hobbies
 - Dancing: ...
 =======
@@ -18,3 +25,4 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
 
 >>>>>>> 147522d806b316d4fa2c4f57fe1148722baab3e3
+>>>>>>> 061752e07500b17cf71c76cf7794d462fae35a19
